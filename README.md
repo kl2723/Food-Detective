@@ -1,1 +1,1 @@
-# Food-Detective is for detecting ingredients
+# Food-Detective is for detecting ingredients!
